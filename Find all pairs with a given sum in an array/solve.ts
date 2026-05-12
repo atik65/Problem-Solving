@@ -16,6 +16,7 @@ function find_pairs_target_sum(
       founded_pairs.push([needed_value, numbers[i]]);
     }
 
+    // storing the index of the number in the tracker, so we can check if the needed value is already seen
     tracker[numbers[i]] = i;
   }
 
