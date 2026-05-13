@@ -11,8 +11,6 @@ function reverse_words(s: string): string {
   return reversed_words.join(" ");
 }
 
-console.log(reverse_words(input));
-
 // solution with regex to split with all whitespace
 function reverse_words_another(s: string): string {
   const words = s
@@ -23,3 +21,5 @@ function reverse_words_another(s: string): string {
 
   return reversed_words.join(" ");
 }
+
+console.log(reverse_words(input));
