@@ -1,8 +1,4 @@
-/**
- Do not return anything, modify matrix in-place instead.
- */
-
-const sample_matrix = [
+export const sample_matrix: number[][] = [
   [1, 2, 3],
   [4, 5, 6],
   [7, 8, 9],
