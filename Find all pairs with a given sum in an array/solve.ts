@@ -24,5 +24,3 @@ function find_pairs_target_sum(
 }
 
 console.log(find_pairs_target_sum(numbers, targetSum));
-
-

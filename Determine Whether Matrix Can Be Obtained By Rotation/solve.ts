@@ -1,3 +1,5 @@
+// Leetcode problem: https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
+
 export const sample_matrix: number[][] = [
   [1, 2, 3],
   [4, 5, 6],

@@ -1,3 +1,5 @@
+// Leetcode problem: https://leetcode.com/problems/valid-palindrome/
+
 const test_input = "A man, a plan, a canal: Panama";
 
 function is_palindrome(s: string): boolean {

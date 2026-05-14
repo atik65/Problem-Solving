@@ -1,3 +1,5 @@
+// Leetcode problem: https://leetcode.com/problems/reverse-words-in-a-string/
+
 const input = "a good   example";
 
 function reverse_words(s: string): string {
